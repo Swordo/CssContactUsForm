@@ -1,0 +1,27 @@
+{
+  "name": "csscontactusform",
+  "version": "1.0.0",
+  "description": "Simple Css(Bootstrap) and HTML -ContactUs- form.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swordo/CssContactUsForm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swordo/CssContactUsForm/issues"
+  },
+  "homepage": "https://github.com/Swordo/CssContactUsForm#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.0",
+    "nodemon": "^1.18.9",
+    "serve-index": "^1.9.1"
+  }
+}
